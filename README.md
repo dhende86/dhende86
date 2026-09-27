@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm David Henderson
 
-<!--
-**dhende86/dhende86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS + Mechatronics Engineering student at Kennesaw State University (May 2028).
+I build systems where software meets the physical world: computer vision, automation, and the infrastructure that runs them.
 
-Here are some ideas to get you started:
+**Right now**
+- Engineering Intern, Automation & Electrical at CMC Steel
+- Student Assistant, ML & Infrastructure at KSU's Research Data Center
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured work**
+- **[Smart Parking KSU](https://github.com/dhende86/smart-parking-ksu)**: live parking occupancy with YOLOv8 + ByteTrack + FastAPI + React.
+  Regional winner, national finalist at the Bank of America Code-a-Thon.
+- **[Casa Abierta](https://github.com/dhende86/casa-abierta)**: bilingual app that reads utility bills (OCR) and estimates solar and rainwater savings for Atlanta households.
+- **[Muiscas AI Lab](https://github.com/dhende86/Muiscas-AI-lab)**: onboarding tutorials for students using the GPU servers in KSU's Research Data Center.
+
+**Tools I use**: Python, JavaScript/TypeScript, React, FastAPI, OpenCV, Docker, Kubernetes, Linux
+
+[LinkedIn](https://www.linkedin.com/in/david-henderson-/)
