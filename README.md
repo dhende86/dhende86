@@ -3,7 +3,7 @@
 CS + Mechatronics Engineering student at Kennesaw State University (May 2028).
 I build systems where software meets the physical world: computer vision, automation, and the infrastructure that runs them.
 
-**Right now**
+**Work Experience**
 - Engineering Intern, Automation & Electrical at CMC Steel
 - Student Assistant, ML & Infrastructure at KSU's Research Data Center
 
